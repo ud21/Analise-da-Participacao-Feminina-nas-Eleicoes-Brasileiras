@@ -6,7 +6,7 @@ O propósito das análises é mostrar ao público a diferença quantitativa entr
 
 2ª Análise - Quantidade de candidatas nos partidos com maior número de filiados;
 
-3ª Análise - Número decandidatas eleitas.
+3ª Análise - Número de candidatas eleitas.
 
 As análises feitas tomaram como base os dados das últimas quatro eleições, dos anos de 2004 a 2016 (para prefeito e vereador) e, de 2006 a 2018 (para senador e governador).
 
